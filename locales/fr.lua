@@ -16,7 +16,7 @@ Locales['fr'] = {
 
 	['user_gives_to'] = 'a donné a',
 
-	['server_washingmoney'] = 'nouveau blanchiement';
+	['server_washingmoney'] = 'nouveau blanchiement',
 	['user_washingmoney'] = 'a blanchi',
 
 	['server_blacklistedvehicle'] = 'vehicule interdit alerte',
